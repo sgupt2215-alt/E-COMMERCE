@@ -49,8 +49,8 @@ No installation or build tools needed — this is a pure frontend project.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/dns-18/shopsphere-ecommerce.git
-cd shopsphere-ecommerce
+git clone https://github.com/sgupt2215-alt/E-COMMERCE
+cd E-COMMERCE
 ```
 
 ### 2. Open in browser
@@ -130,4 +130,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **dns-18**  
-GitHub: [@dns-18](https://github.com/dns-18)
+GitHub: sgupt2215-alt(https://github.com/sgupt2215-alt)
