@@ -1,4 +1,4 @@
-# 🛒 ShopSphere — E-Commerce Website
+# 🛒 E-COMMERCE APP 
 
 A clean and responsive e-commerce web application built with **vanilla HTML, CSS, and JavaScript**. ShopSphere fetches live product data from the [DummyJSON API](https://dummyjson.com/) and offers a smooth shopping experience with product browsing, detailed views, and a persistent cart.
 
